@@ -1,4 +1,4 @@
-# Campus AI App
+# Campus Nexus App
 
 ## 🌟 Overview
 The **Campus AI App** is designed to revolutionize campus life by providing students, staff, and visitors with essential tools for navigation, event management, and instant assistance. With an emphasis on user-friendly features and AI-driven support, the app is a one-stop solution for all campus-related needs.
@@ -91,4 +91,3 @@ The **Campus AI App** is designed to revolutionize campus life by providing stud
 
 ## 📫 Contact
 For suggestions or queries, reach out at [parth.kale.dev@gmail.com](mailto:parth.kale.dev@gmail.com).  
-# Campus-Nexus
