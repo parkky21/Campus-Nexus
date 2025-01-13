@@ -1,50 +1,94 @@
-# Welcome to your Expo app 👋
+# Campus AI App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 🌟 Overview
+The **Campus AI App** is designed to revolutionize campus life by providing students, staff, and visitors with essential tools for navigation, event management, and instant assistance. With an emphasis on user-friendly features and AI-driven support, the app is a one-stop solution for all campus-related needs.
 
-## Get started
+---
 
-1. Install dependencies
+## 🎯 Key Features
 
-   ```bash
-   npm install
-   ```
+1. **Google Authentication**
+   - Secure and seamless login using Google Auth.
 
-2. Start the app
+2. **Event Suggestions**
+   - Personalized event recommendations based on interests and campus activities.
 
-   ```bash
-    npx expo start
-   ```
+3. **Events Calendar**
+   - A comprehensive view of all campus events, with scheduling and reminder functionalities.
 
-In the output, you'll find options to open the app in a
+4. **Live GPS Navigation**
+   - Real-time campus navigation to guide users to their desired locations effortlessly.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+5. **Virtual ID Card**
+   - Scan your physical ID card to generate a virtual ID for quick access and verification.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+6. **On-the-Spot Assistance**
+   - Integrated chat system providing instant answers to campus-related queries.
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 💻 Tech Stack
 
-```bash
-npm run reset-project
-```
+### **Frontend**
+- **Framework**: [React Native](https://reactnative.dev/) 
+- **UI Components**: [Expo](https://expo.dev/)
+- **Design**: [Tailwind CSS](https://tailwindcss.com/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **State Management**: [Zustand](https://github.com/pmndrs/zustand)
+- **Navigation**: [React Navigation](https://reactnavigation.org/)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### **Backend**
+- **Authentication**: Google OAuth for secure login.
+- **Database**: [postgreSQL](https://www.neon.tech/) for user data and event management.
+- **Geolocation Services**: GPS for live navigation.
 
-## Learn more
+### **Chat System**
+- [botpress](https://botpress.io/) for   AI-based chatbot for dynamic query resolution.
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🚀 Current Functionality
 
-## Join the community
+### **Authentication Flow**
+- Secure Google-based login for all users.
 
-Join our community of developers creating universal apps.
+### **Event Management**
+- Displays suggested events tailored to user preferences.
+- Integrated calendar with event details and reminders.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### **Campus Navigation**
+- Live GPS tracking to guide users across the campus.
+
+### **Virtual ID**
+- Allows scanning of physical ID cards to generate virtual IDs for digital use.
+
+### **On-Demand Assistance**
+- Chat system for providing instant responses to campus-related queries, from schedules to policies.
+
+---
+
+## 🎨 Design Principles
+- **Accessibility**: Designed for all users, ensuring easy navigation and clear information.
+- **Efficiency**: Combines multiple features into a single cohesive application.
+- **Scalability**: Built to accommodate future enhancements like multi-language support and advanced analytics.
+
+---
+
+## 🛠️ Next Steps
+1. **Expand Chat Functionality**
+   - Add advanced AI models for more contextual responses.
+2. **Enhanced Event Management**
+   - Include RSVP features and personalized notifications.
+3. **Community Features**
+   - Add forums and discussion boards for better interaction.
+
+---
+
+## 👥 Contributors
+- **Parth Kale**
+
+---  
+
+## 📫 Contact
+For suggestions or queries, reach out at [parth.kale.dev@gmail.com](mailto:parth.kale.dev@gmail.com).  
+# Campus-Nexus
